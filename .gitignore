@@ -1,5 +1,11 @@
+# Ignore all
 *
+
+# Unignore files with extensions, directories, and input data
 !*.*
 !*/
+!input
+
+# Reignore binaries
 *.hi
 *.o
